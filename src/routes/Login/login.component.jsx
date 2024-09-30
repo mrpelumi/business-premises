@@ -22,7 +22,7 @@ const Login = () => {
           </div>
       </div>
         <div className='consultant-container'>
-          <span>Consultant: Buven Communications NIG.</span>
+          <span>Developer: Pelumi Oguntola</span>
         </div>
     </div>
   )

@@ -1,6 +1,6 @@
 import { Outlet } from 'react-router-dom';
 import './authNavigation.styles.scss';
-import mainLogo from '../../assets/ondo-logo.png';
+import mainLogo from '../../assets/transparent-logo.png';
 
 
 const AuthNavigation = () => {
@@ -13,7 +13,7 @@ const AuthNavigation = () => {
             </div>
             <span className='nav-span'></span>
             <div className='nav-brand-name'>
-              <span className='header'>ONDO STATE BUSINESS PREMISES</span>
+              <span className='header'>BUSINESS PREMISES</span>
               <span className='bottom'>REGISTRATION SYSTEM</span>
             </div>
           </div>
